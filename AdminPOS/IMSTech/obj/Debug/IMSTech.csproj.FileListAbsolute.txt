@@ -1,0 +1,27 @@
+C:\Tech\AdminPOS\IMSTech\bin\Debug\IMSTech.exe
+C:\Tech\AdminPOS\IMSTech\bin\Debug\IMSTech.pdb
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.frmDashboard.resources
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.Header.resources
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.Properties.Resources.resources
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.csproj.GenerateResource.Cache
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.exe
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.pdb
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.frmNewProducts.resources
+C:\Tech\AdminPOS\IMSTech\bin\Debug\IMSTech.exe.config
+C:\Tech\AdminPOS\IMSTech\bin\Debug\MySql.Data.DLL
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.csprojResolveAssemblyReference.cache
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.frmCategory.resources
+C:\Tech\AdminPOS\IMSTech\obj\Debug\IMSTech.frmDataKey.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\bin\Debug\IMSTech.exe.config
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.exe
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.pdb
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\bin\Debug\IMSTech.exe
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\bin\Debug\IMSTech.pdb
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.csprojResolveAssemblyReference.cache
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.frmCategory.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.frmDashboard.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.frmDataKey.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.frmNewProducts.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.Header.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.Properties.Resources.resources
+C:\Users\Leomil\Google Drive\AdminPOS\IMSTech\obj\Debug\IMSTech.csproj.GenerateResource.Cache

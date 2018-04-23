@@ -1,0 +1,15 @@
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\MySql.Data.DLL
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
